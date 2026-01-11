@@ -458,9 +458,9 @@ SOFTWARE.
 
 - **Autor**: Sihomara Ochoa
 - **Email**: sihomara.ochoa@unmsm.edu.pe
-- **GitHub**: [@tu-usuario](https://github.com/SihomaSa)
-- **LinkedIn**: [Tu Perfil](https://linkedin.com/in/sihomara-sandy-ochoa-cisneros/)
-- **Twitter**: [@tu_usuario](https://twitter.com/sihomaraochoa)
+- **GitHub**: [@SihomaSa](https://github.com/SihomaSa)
+- **LinkedIn**: [Sihomara Ochoa](https://linkedin.com/in/sihomara-sandy-ochoa-cisneros/)
+- **Twitter**: [@sihomaochoa](https://twitter.com/sihomaraochoa)
 
 ---
 
@@ -486,9 +486,6 @@ SOFTWARE.
 
 Hecho con ❤️ y ☕ por Sihomara Ochoa
 
-</div>AC?logo=tailwind-css)](https://tailwindcss.com/)
-[![Google Gemini](https://img.shields.io/badge/Gemini-2.5-4285F4?logo=google)](https://ai.google.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
