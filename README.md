@@ -485,6 +485,9 @@ SOFTWARE.
 ---
 
 Hecho con ❤️ y ☕ por Sihomara Ochoa
+</div>AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![Google Gemini](https://img.shields.io/badge/Gemini-2.5-4285F4?logo=google)](https://ai.google.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ---
