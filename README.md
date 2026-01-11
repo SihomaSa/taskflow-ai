@@ -486,11 +486,14 @@ SOFTWARE.
 
 Hecho con ❤️ y ☕ por Sihomara Ochoa
 </div>
-| Tecnología | Badge |
-|------------|-------|
-| **Tailwind CSS** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Google Gemini** | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2.5-4285F4?style=for-the-badge&logo=google&logoColor=white) |
-| **Licencia** | ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge) |
+<div align="center">
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
+</div>
+
 
 
 ---
