@@ -456,11 +456,11 @@ SOFTWARE.
 
 ## 📞 Contacto
 
-- **Autor**: [Tu Nombre]
-- **Email**: tu-email@example.com
-- **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn**: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
+- **Autor**: Sihomara Ochoa
+- **Email**: sihomara.ochoa@unmsm.edu.pe
+- **GitHub**: [@tu-usuario](https://github.com/SihomaSa)
+- **LinkedIn**: [Tu Perfil](https://linkedin.com/in/sihomara-sandy-ochoa-cisneros/)
+- **Twitter**: [@tu_usuario](https://twitter.com/sihomaraochoa)
 
 ---
 
@@ -484,7 +484,7 @@ SOFTWARE.
 
 ---
 
-Hecho con ❤️ y ☕ por [Tu Nombre]
+Hecho con ❤️ y ☕ por Sihomara Ochoa
 
 </div>AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![Google Gemini](https://img.shields.io/badge/Gemini-2.5-4285F4?logo=google)](https://ai.google.dev/)
@@ -1324,5 +1324,3 @@ Tier de Pago:
 git clone https://github.com/TU-USUARIO/taskflow-ai.git
 cd taskflow-ai
 ```
-
-2
