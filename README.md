@@ -485,7 +485,8 @@ SOFTWARE.
 ---
 
 Hecho con ❤️ y ☕ por Sihomara Ochoa
-</div>| Tecnología | Badge |
+</div>
+| Tecnología | Badge |
 |------------|-------|
 | **Tailwind CSS** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Google Gemini** | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2.5-4285F4?style=for-the-badge&logo=google&logoColor=white) |
