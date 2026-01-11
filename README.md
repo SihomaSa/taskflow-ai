@@ -485,9 +485,11 @@ SOFTWARE.
 ---
 
 Hecho con ❤️ y ☕ por Sihomara Ochoa
-</div>AC?logo=tailwind-css)](https://tailwindcss.com/)
-[![Google Gemini](https://img.shields.io/badge/Gemini-2.5-4285F4?logo=google)](https://ai.google.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+</div>| Tecnología | Badge |
+|------------|-------|
+| **Tailwind CSS** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Google Gemini** | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2.5-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **Licencia** | ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge) |
 
 
 ---
